@@ -1,4 +1,4 @@
-package com.example.mercadonarestapi;
+package com.example.mercadonarestapi.repository;
 
 
 
